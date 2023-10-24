@@ -1,0 +1,9 @@
+.container {
+    width: 100%;
+    height: 1rem;
+    background-color: white;
+}
+
+.MuiInputLabel-root {
+    color: white !important;
+}
